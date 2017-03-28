@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=PlayerColor\ PlayerType
+comment0.target=Person(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Person\r\n
+comment1.params=colP
+comment1.target=boolean\ move(int)
+comment2.params=colP
+comment2.target=boolean\ attemptMove(int)
+comment3.params=
+comment3.target=int\ whatColumn()
+comment4.params=
+comment4.target=int\ randomCol()
+numComments=5

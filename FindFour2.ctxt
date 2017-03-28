@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FindFour2()
+comment1.params=
+comment1.target=java.lang.String\ testForWin()
+comment2.params=
+comment2.target=java.lang.String\ testForThree()
+comment3.params=num
+comment3.target=java.lang.String\ checkRows(int)
+comment4.params=num
+comment4.target=java.lang.String\ checkColumns(int)
+comment5.params=num
+comment5.target=java.lang.String\ checkDiagonals(int)
+comment6.params=
+comment6.target=void\ printBoard()
+numComments=7
